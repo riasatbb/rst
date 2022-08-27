@@ -140,30 +140,6 @@ http://208.86.19.13:81/708.stream/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/h4MxWsHj/zeebanglahd.jpg" group-title="Indian Bangla", Zee Bangla HD
 http://www.luckonline.eu/live/786786/786786/536.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/Z50VPdyr/download_(8).jpg" group-title="Internet TV", Colors Bangla Cinema
-http://103.55.144.46/hls/colore-bangla-cinema.m3u8
-
-#EXTINF:-1 tvg-id="756" tvg-logo="https://i.postimg.cc/Dzss9TTk/colorsbangla.jpg" group-title="Internet TV", Colors Bangla HD
-http://103.55.144.46/hls/colorsbangla.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/SNfw1Cs3/download_(9).jpg" group-title="Internet TV", Enter 10 Bangla
-http://14.199.164.20:4001/play/a0j5/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/J0TBN7bJ/sonyaath.jp" group-title="Internet TV", Sony
-http://cdn.redtraffic.net/compilation.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/28KZ36jN/starjalshahd.jpg" group-title="Internet TV", Star Jalsha
-http://103.55.144.46/hls/starjalsha.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/7hP2JJTw/sunbangla.jpg" group-title="Internet TV", Sun Bangla
-http://103.55.144.46/hls/sunbangla.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.ibb.co/F3qs1LY/Zee-Bangla.jpg" group-title="Internet TV", Zee Bangla
-http://103.109.56.116/live/skyfeed1004/index.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Music", RTV Music 
-https://bdcast-live2.b-cdn.net/jago/1/live-orgin/rtvmusic.stream/chunks.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/BQcLQ7wn/download.jpg" group-title="Music", 8XM
 http://144.217.70.181:9587/hin2/8XM/tracks-v1a1/mono.m3u8
 
@@ -197,6 +173,9 @@ http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/WpnnQnGG/download_(11).png" group-title="Music", Music India
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
 
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Music", RTV Music 
+https://bdcast-live2.b-cdn.net/jago/1/live-orgin/rtvmusic.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/NFgxK9c2/download_(7).jpg" group-title="Music", Sangeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 
@@ -213,7 +192,7 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="https://ranapk.tk/Bangla/71TV.m3u8" tvg-logo="https://i.postimg.cc/5NNB6TwL/ekattortv.jpg" group-title="News", Ekattor TV
-http://dangguli.live:8080/EkattorTV/index.m3u8
+http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/7hXSKny5/independenttv.jpg" group-title="News", Independent TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
@@ -227,38 +206,29 @@ https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/LXtt1MCB/somoy.jpg" group-title="News", Somoy TV
 http://tempe.jagobd.com:1932/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", Ten Sports
-http://stream.amrbd.com:8082/Ten-Sports/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", Star Sports 1
-http://stream.amrbd.com:8082/Star-Sports-1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", GTV
-http://stream.amrbd.com:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", Sony Six
-http://stream.amrbd.com:8082/SonySix/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", Sony Ten 2
-http://stream.amrbd.com:8082/Ten2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", PTV Sports
-http://stream.amrbd.com:8082/PTV-Sports/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/hj2GwyfR/asp.jpg" group-title="Sports", A Sports
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", BT Sports 1
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/13fTxsKs/images.png" group-title="Sports", BT Sports 1
 http://93.152.174.144:4000/play/btsport1/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="Sports", Geo Super TV
 http://www.luckonline.eu/live/786786/786786/499.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/6Qd2HfrB/tsports.jpg" group-title="Sports", TSports
-http://stream.amrbd.com:8082/T-Sports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/W3TDxq8g/gazi.jpg" group-title="Sports", GTV
+http://stream.amrbd.com:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="Sports", Sky Sports Cricket
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/hjsJn4Zw/ptvsports.jpg" group-title="Sports", PTV Sports
+http://stream.amrbd.com:8082/PTV-Sports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/hjsJn4Zw/ptvsports.jpg" group-title="Sports", PTV Sports 
+http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/MGtjy2hf/images.jpg" group-title="Sports", Sky Sports Cricket
 http://93.152.174.144:4000/play/skysports2/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/WzfhDWvw/sonysixhd.jpg" group-title="Sports", Sony Six
+http://stream.amrbd.com:8082/SonySix/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/WzfhDWvw/sonysixhd.jpg" group-title="Sports", Sony Six
 http://103.151.43.102:8000/play/a03e/index.m3u8
@@ -267,19 +237,25 @@ http://103.151.43.102:8000/play/a03e/index.m3u8
 http://stream.amrbd.com:8082/Ten1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/sDvBFrY6/ten2hd.jpg" group-title="Sports", Sony Ten 2
+http://stream.amrbd.com:8082/Ten2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/sDvBFrY6/ten2hd.jpg" group-title="Sports", Sony Ten 2
 http://103.151.43.102:8000/play/a03d/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/tRr1mTxn/ten3hd.jpg" group-title="Sports", Sony Ten 3
 http://stream.amrbd.com:8082/Ten3/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/sDqMsNKV/starsports1.jpg" group-title="Sports", Star Sports 1 HD
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/sDqMsNKV/starsports1.jpg" group-title="Sports", Star Sports 1
+http://stream.amrbd.com:8082/Star-Sports-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/sDqMsNKV/starsports1.jpg" group-title="Sports", Star Sports 1
+http://45.86.190.64:25461/4jAEa0d22r/sw7pKJkCPw/34499?play_token=E2oETZbCeU&token=TURYAhZYEAwSVlFRWQcFAQRRUlMDAQACAApRBwddAFFUAwACAAABAVJGTxBLF0AGVA9uD1IbCQUFB10MShsTFlMUbwoBEggUBlBRAgxSEE8XFlgLUxsJBwcHXA1XD1dQBkoSEwxUEAxeEQ9eFEFXG0EHQwhXVWxSVEUNVgMbXAtDClxPR19caVQBDlNWBxBZF1MTShRQQEYTCQpAClVKR1QPRBEERFcUCgoWXlRPEABaF18SREARDBN6KhdKGwMdQgNeEAxfXBQKRhdBGk8QCkY9QwNFTUFTUF4BR0QDRFUUShIOBEhtVV8KDVdbF1sMWxETXBQIERoTXgtbD00JF2kWWQdHClxDXAge
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/sDqMsNKV/starsports1.jpg" group-title="Sports", Star Sports 1
 http://208.86.19.13:81/710.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/htmfj13V/starsports2.jpg" group-title="Sports", Star Sports 2
 http://stream.amrbd.com:8082/Star-Sports-2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/sDqMsNKV/starsports1.jpg" group-title="Sports", Star Sports 1
-http://45.86.190.64:25461/4jAEa0d22r/sw7pKJkCPw/34499?play_token=E2oETZbCeU&token=TURYAhZYEAwSVlFRWQcFAQRRUlMDAQACAApRBwddAFFUAwACAAABAVJGTxBLF0AGVA9uD1IbCQUFB10MShsTFlMUbwoBEggUBlBRAgxSEE8XFlgLUxsJBwcHXA1XD1dQBkoSEwxUEAxeEQ9eFEFXG0EHQwhXVWxSVEUNVgMbXAtDClxPR19caVQBDlNWBxBZF1MTShRQQEYTCQpAClVKR1QPRBEERFcUCgoWXlRPEABaF18SREARDBN6KhdKGwMdQgNeEAxfXBQKRhdBGk8QCkY9QwNFTUFTUF4BR0QDRFUUShIOBEhtVV8KDVdbF1sMWxETXBQIERoTXgtbD00JF2kWWQdHClxDXAge
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/KYy4g3dw/starselect1.jpg" group-title="Sports", Star Sports Select 1 HD
 http://103.151.43.102:8000/play/a03b/index.m3u8
@@ -287,8 +263,11 @@ http://103.151.43.102:8000/play/a03b/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/rpCsGFTm/starselect2.jpg" group-title="Sports", Star Sports Select 2 HD
 http://103.151.43.102:8000/play/a03c/index.m3u8
 
-#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/hjsJn4Zw/ptvsports.jpg" group-title="Sports", PTV Sports 
-http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/DZVPMKxj/Ten-sports-768x211.png" group-title="Sports", Ten Sports
+http://stream.amrbd.com:8082/Ten-Sports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/6Qd2HfrB/tsports.jpg" group-title="Sports", TSports
+http://stream.amrbd.com:8082/T-Sports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://i.postimg.cc/6Qd2HfrB/tsports.jpg" group-title="Sports", Tsports
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
